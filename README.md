@@ -7,9 +7,8 @@ Here are some ideas to get you started:
 - 💬 Ask me about Tech And Self Development...
 - ⚡ Fun fact:A line of Code Will Make us Rich And Eventually it Also make Us Grow...
 - 📫 How to reach me:
-Email:phaneendrakumar116@gmail.com
-
-Linkedin:https://www.linkedin.com/in/phaneendra-kumar-973a31193/
+- ✨Email:phaneendrakumar116@gmail.com
+- 🥇Linkedin:https://www.linkedin.com/in/phaneendra-kumar-973a31193/
 <!--
 **Phaneendrakumar9/Phaneendrakumar9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
