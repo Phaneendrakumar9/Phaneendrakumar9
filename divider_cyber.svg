@@ -1,0 +1,24 @@
+<svg width="900" height="18" viewBox="0 0 900 18" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="g1" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#020024"/>
+      <stop offset="40%" stop-color="#00d4ff">
+        <animate attributeName="offset" values="0.3;0.6;0.3" dur="3s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="60%" stop-color="#7c3aed">
+        <animate attributeName="offset" values="0.5;0.8;0.5" dur="3s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="100%" stop-color="#020024"/>
+    </linearGradient>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="2" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+  <rect width="900" height="2" y="8" fill="url(#g1)" filter="url(#glow)"/>
+  <polygon points="440,0 460,9 440,18 420,9" fill="#00d4ff" opacity="0.9" filter="url(#glow)">
+    <animate attributeName="opacity" values="0.5;1;0.5" dur="2s" repeatCount="indefinite"/>
+  </polygon>
+  <rect x="0" y="7" width="415" height="4" fill="url(#g1)"/>
+  <rect x="465" y="7" width="435" height="4" fill="url(#g1)"/>
+</svg>

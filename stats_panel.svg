@@ -1,0 +1,42 @@
+<svg width="900" height="120" viewBox="0 0 900 120" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="panelbg" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#020024"/>
+      <stop offset="50%" stop-color="#0a0a3e"/>
+      <stop offset="100%" stop-color="#020024"/>
+    </linearGradient>
+    <filter id="g"><feGaussianBlur stdDeviation="2" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  </defs>
+  <rect width="900" height="120" fill="url(#panelbg)" rx="8"/>
+  <rect width="898" height="118" x="1" y="1" fill="none" stroke="#00d4ff" stroke-width="1" rx="8" opacity="0.4"/>
+
+  <!-- Stat 1 -->
+  <rect x="20" y="15" width="155" height="90" rx="6" fill="#030318" stroke="#00d4ff" stroke-width="1" opacity="0.7"/>
+  <text x="97" y="52" font-family="monospace" font-size="28" font-weight="bold" text-anchor="middle" fill="#00d4ff" filter="url(#g)">3M+</text>
+  <text x="97" y="72" font-family="monospace" font-size="9" text-anchor="middle" fill="#64748b" letter-spacing="1">EVENTS / DAY</text>
+  <text x="97" y="92" font-family="monospace" font-size="8" text-anchor="middle" fill="#a78bfa">TARGET CORP</text>
+
+  <!-- Stat 2 -->
+  <rect x="195" y="15" width="155" height="90" rx="6" fill="#030318" stroke="#7c3aed" stroke-width="1" opacity="0.7"/>
+  <text x="272" y="52" font-family="monospace" font-size="28" font-weight="bold" text-anchor="middle" fill="#a78bfa" filter="url(#g)">$230K+</text>
+  <text x="272" y="72" font-family="monospace" font-size="9" text-anchor="middle" fill="#64748b" letter-spacing="1">SAVED / YEAR</text>
+  <text x="272" y="92" font-family="monospace" font-size="8" text-anchor="middle" fill="#00d4ff">CLOUD COSTS</text>
+
+  <!-- Stat 3 -->
+  <rect x="370" y="15" width="155" height="90" rx="6" fill="#030318" stroke="#00d4ff" stroke-width="1" opacity="0.7"/>
+  <text x="447" y="52" font-family="monospace" font-size="28" font-weight="bold" text-anchor="middle" fill="#00d4ff" filter="url(#g)">99.7%</text>
+  <text x="447" y="72" font-family="monospace" font-size="9" text-anchor="middle" fill="#64748b" letter-spacing="1">UPTIME SLA</text>
+  <text x="447" y="92" font-family="monospace" font-size="8" text-anchor="middle" fill="#a78bfa">PRODUCTION</text>
+
+  <!-- Stat 4 -->
+  <rect x="545" y="15" width="155" height="90" rx="6" fill="#030318" stroke="#7c3aed" stroke-width="1" opacity="0.7"/>
+  <text x="622" y="52" font-family="monospace" font-size="28" font-weight="bold" text-anchor="middle" fill="#a78bfa" filter="url(#g)">&lt;500ms</text>
+  <text x="622" y="72" font-family="monospace" font-size="9" text-anchor="middle" fill="#64748b" letter-spacing="1">LATENCY</text>
+  <text x="622" y="92" font-family="monospace" font-size="8" text-anchor="middle" fill="#00d4ff">END-TO-END</text>
+
+  <!-- Stat 5 -->
+  <rect x="720" y="15" width="155" height="90" rx="6" fill="#030318" stroke="#00d4ff" stroke-width="1" opacity="0.7"/>
+  <text x="797" y="52" font-family="monospace" font-size="28" font-weight="bold" text-anchor="middle" fill="#00d4ff" filter="url(#g)">ZERO</text>
+  <text x="797" y="72" font-family="monospace" font-size="9" text-anchor="middle" fill="#64748b" letter-spacing="1">AUDIT FINDINGS</text>
+  <text x="797" y="92" font-family="monospace" font-size="8" text-anchor="middle" fill="#a78bfa">HIPAA·GDPR·CCPA</text>
+</svg>
