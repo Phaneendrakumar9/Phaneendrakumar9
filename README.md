@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020024,50:090979,100:00d4ff&height=210&section=header&text=PHANEENDRA%20KUMAR&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=SENIOR%20DATA%20ENGINEER%20%7C%20CLOUD%20%26%20STREAMING%20SYSTEMS&descAlignY=60&descSize=16" width="100%" alt="Phaneendra Kumar"/>
+# PHANEENDRA KUMAR
+
+### Senior Data Engineer · Cloud & Streaming Systems
 
 <br/>
 
@@ -172,6 +174,6 @@ contact  : phaneendra.srungarapu1@gmail.com  |  (937) 231-0449
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020024,50:090979,100:00d4ff&height=100&section=footer&text=Open+to+Senior+Data+Engineering+Roles&fontSize=16&fontColor=ffffff&animation=fadeIn&fontAlignY=55" width="100%"/>
+### Open to Senior Data Engineering Roles
 
 </div>
