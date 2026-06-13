@@ -1,8 +1,6 @@
 <div align="center">
 
-# PHANEENDRA KUMAR
-
-### Senior Data Engineer · Cloud & Streaming Systems
+<img src="header_banner.svg" width="100%" alt="Phaneendra Kumar"/>
 
 <br/>
 
@@ -19,23 +17,17 @@
 
 <br/>
 
----
+<img src="divider_cyber.svg" width="100%"/>
 
 <div align="center">
 
 ### `[ IMPACT AT A GLANCE ]`
 
-<p>
-<img src="https://img.shields.io/badge/3M%2B-EVENTS%20%2F%20DAY-00d4ff?style=for-the-badge&labelColor=020024" alt="3M+ events per day"/>
-<img src="https://img.shields.io/badge/%24230K%2B-SAVED%20%2F%20YEAR-a78bfa?style=for-the-badge&labelColor=020024" alt="$230K+ saved per year"/>
-<img src="https://img.shields.io/badge/99.7%25-UPTIME%20SLA-00d4ff?style=for-the-badge&labelColor=020024" alt="99.7% uptime SLA"/>
-<img src="https://img.shields.io/badge/%3C500ms-END--TO--END%20LATENCY-a78bfa?style=for-the-badge&labelColor=020024" alt="Sub-500ms latency"/>
-<img src="https://img.shields.io/badge/ZERO-AUDIT%20FINDINGS-00d4ff?style=for-the-badge&labelColor=020024" alt="Zero audit findings"/>
-</p>
+<img src="stats_panel.svg" width="100%"/>
 
 </div>
 
----
+<img src="divider_cyber.svg" width="100%"/>
 
 ### `> whoami`
 
@@ -50,7 +42,7 @@ certs    : [AWS DEA-C01, GCP Pro DE, Databricks, Snowflake SnowPro, dbt]
 contact  : phaneendra.srungarapu1@gmail.com  |  (937) 231-0449
 ```
 
----
+<img src="divider_cyber.svg" width="100%"/>
 
 ### `> experience --full`
 
@@ -63,7 +55,7 @@ contact  : phaneendra.srungarapu1@gmail.com  |  (937) 231-0449
 **◈ Molina Healthcare** — Data Engineer `Feb 2020 – Jan 2021`
 > PySpark ETL for 500K+ member records. 100% on-time CMS/HEDIS regulatory submissions. HIPAA PII masking via Azure Key Vault. Datadog cut MTTD 55%. $20K/yr savings.
 
----
+<img src="divider_cyber.svg" width="100%"/>
 
 ### `> projects --top 4`
 
@@ -114,7 +106,7 @@ contact  : phaneendra.srungarapu1@gmail.com  |  (937) 231-0449
 </tr>
 </table>
 
----
+<img src="divider_cyber.svg" width="100%"/>
 
 ### `> tech --arsenal`
 
@@ -128,7 +120,7 @@ contact  : phaneendra.srungarapu1@gmail.com  |  (937) 231-0449
 
 </div>
 
----
+<img src="divider_cyber.svg" width="100%"/>
 
 ### `> certifications --list`
 
@@ -142,7 +134,7 @@ contact  : phaneendra.srungarapu1@gmail.com  |  (937) 231-0449
 
 </div>
 
----
+<img src="divider_cyber.svg" width="100%"/>
 
 ### `> github --stats`
 
@@ -170,10 +162,10 @@ contact  : phaneendra.srungarapu1@gmail.com  |  (937) 231-0449
 
 </div>
 
----
+<img src="divider_cyber.svg" width="100%"/>
 
 <div align="center">
 
-### Open to Senior Data Engineering Roles
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020024,50:090979,100:00d4ff&height=100&section=footer&text=Open+to+Senior+Data+Engineering+Roles&fontSize=16&fontColor=ffffff&animation=fadeIn&fontAlignY=55" width="100%"/>
 
 </div>
